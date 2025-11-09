@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Paper, Typography, Box, CardMedia } from '@mui/material';
+import { Paper, Typography, CardMedia } from '@mui/material';
 
 const ItemCard = ({ item, onClick }) => {
   return (
