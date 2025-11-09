@@ -1,7 +1,0 @@
-flask==3.0.0
-flask-cors==4.0.0
-python-telegram-bot==21.1.1
-werkzeug==3.0.1
-python-dotenv==1.0.0
-jsmin==3.0.1
-cssmin==0.2.0
